@@ -1,0 +1,1 @@
+DB Browser for Sqlite Uygulamasını Google üzerinden indirip kurunuz yoksa projeniz çalışmayacaktır.
